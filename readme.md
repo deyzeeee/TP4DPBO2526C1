@@ -8,12 +8,13 @@ Saya Muhammad Fadey Rafif dengan NIM 2504792 mengerjakan Tugas Praktikum 4 dalam
 TP4/
 ├── PeopleData/                  
 │   ├── src/
-│   │   ├── Person.java
-│   │   ├── PeopleMenu.java
-│   │   └── PeopleMenu.form
-│   ├── .gitignore
-│   └── PeopleData.iml
+│       ├── Person.java
+│       ├── PeopleMenu.java
+│       └── PeopleMenu.form
+│   
+│   
 ├── dokumentasi/
+|
 │   ├── 01-tampilan-awal.png
 │   ├── 02-create-data.png
 │   ├── 03-create-validasi-error.png
@@ -22,10 +23,9 @@ TP4/
 │   ├── 06-delete-konfirmasi.png
 │   ├── 07-delete-berhasil.png
 │   └── 08-cancel.png
+|
 └── readme.md
 ```
-
-Folder `.idea`, file `TP4.iml`, dan folder hasil kompilasi `out` juga dapat muncul saat proyek dibuka melalui IntelliJ. File sumber program berada di `PeopleData/src`.
 
 # 🧑‍🎓 TEMA PROGRAM
 
